@@ -1,3 +1,14 @@
+#   Codigo que implementa el calculo de errores
+#   en operaciones numericas
+# 
+#           Autor:
+#   Dr. Ivan de Jesus May-Cen
+#   imaycen@hotmail.com
+#   Version 1.0 : 29/01/2025
+#
+
+
+
 # Importante: No se importan librerías porque las operaciones básicas se pueden hacer con Python puro.
 
 # Definimos una función para calcular los errores absoluto, relativo y porcentual entre dos valores dados.
